@@ -1,0 +1,1 @@
+Don't delete anything in this folder. Used for analysing teams and MDS submission

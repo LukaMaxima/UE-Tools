@@ -1,0 +1,37 @@
+,Name (H),Pos (H),Rating (H),Event (H),Name (A),Pos (A),Rating (A),Event (A)
+0,U  Anderson,GK,89,,N  Castro,GK,82,
+1,L  Henderson,RWB,89,,T  Robson,LWB,83,
+2,D  Kinumbe,LWB,88,Bkd,S  Nealis (C),CB,84,
+3,T  Adarabioyo (C),CB,87,,P  Daget,CB,70,Inj (43)
+4,P  Slordahl,CB,89,,J  Tennent,RWB,78,
+5,I  Alajuela,CB,77,,P  Kubo,AM,87,
+6,J  Amoah,AM,88,Rep (76),J  Papura,CM,81,Bkd
+7,K  Magennis,CM,89,,T  Jacobs,PL,86,
+8,N  Amiri,FR,81,Rep (55),N  Ratajczak,FR,86,Bkd
+9,R Jarjalainen,RF,90  (3),M/M,D  Zanatta,LF,79,
+10,R  Duca,LF,82,,M  Melotti,RF,72,
+11,,,,,,,,
+0,D  Andersen (C),GK,75,,G  McNamara,GK,78,
+1,D  Richardson,RWB,79,Bkd,M  Farfan,LWB,75,
+2,A  Herrera,LWB,80,Bkd,T  Amman (C),CB,68,Bkd
+3,G  Bergsson,CB,81,,C  Grella,CB,62,
+4,U  Foda,CB,77,,B  Bye,RWB,66,
+5,G  Wood,SW,79,,T  Breitenreite,AM,69,
+6,D  Petrov,AM,82  (1),,N  Boujellab,CM,78,
+7,D  Tkebuchava,CM,69,,E  Rui Casimiro,CM,56,
+8,C  Crespo,FR,88,M/M,D  Sereni,FR,76,
+9,B Strachan,RF,73,,E  Dayev,RF,65,
+10,F  Kinet,LF,85  (2),,O  Semedo,LF,64,
+11,,,,,,,,
+0,E  Boyd,GK,66,,E  Williamson,GK,77,
+1,T  Drulic,RWB,80,Bkd,B  Udeze,LWB,62,
+2,F  Martelinho,LWB,78,,T  Lainez,CB,72,
+3,E  Peacock,CB,80,,K  Scott,CB,78,
+4,E  Allen,CB,79,,K  McCondichie,CB,55,
+5,C  Malatinsky (C),SW,78,Bkd,M  Miranda,RWB,62,
+6,R  Sinclair,AM,77  (1),,U  Aloisi,CM,59,
+7,Y  Thollon,CM,80,,O  Pittana (C),CM,60,
+8,L  Hao,FR,84,M/M,F  Frail,FR,31,Bkd
+9,D Slater,PL,72  (1),,P  Carrigan,RF,47,
+10,U  Pressley,TM,75,,F  Cadden,LF,60,
+11,,,,,,,,

@@ -1,0 +1,50 @@
+,Name (H),Pos (H),Rating (H),Event (H),Name (A),Pos (A),Rating (A),Event (A)
+0,J  Lennon,GK,70,,N  Castro,GK,86,
+1,N  Ou,RWB,68,,T  Robson,LWB,80,
+2,M  Logan (C),SW,71,,S  Nealis (C),CB,87,
+3,B  Bragg,CB,73,Bkd,G  Davies,CB,87,
+4,A  Tsoungui,CB,77,,J  Tennent,RWB,83  (1),
+5,K  Linighan,AM,77,,P  Kubo,AM,78,Bkd
+6,E  Virta,CM,80,,J  Papura,CM,83,
+7,A  Davies,LWB,83,,T  Jacobs,PL,82,
+8,I  Geremi,PL,81,,N  Ratajczak,FR,81,Bkd
+9,K Salvatierra,FR,82,,D  Zanatta,LF,80,
+10,S  Cook,TM,75,,B  Mines,RF,91  (2),M/M Bkd
+11,,,,,,,,
+0,N  Castro,GK,86,,D  Ospina,GK,77.0,
+1,T  Robson,LWB,84,,D  Carvajal,RWB,77.0,
+2,S  Nealis (C),CB,86,,M  Fox,LWB,84.0,
+3,G  Davies,CB,86,Bkd,J  Riedewald,CB,83.0,
+4,J  Tennent,RWB,84,Bkd,I  Rice,CB,85.0,
+5,P  Kubo,AM,84,,G  Cunningham (C,CB,80.0,
+6,J  Papura,CM,82,,),,,
+7,T  Jacobs,PL,83,Bkd,M  Luongo,AM,79.0,Bkd
+8,N  Ratajczak,FR,84,,H  Solano,CM,81.0,
+9,D Zanatta,LF,86  (1),,J  Berget,FR,88.0,M/M
+10,B  Mines,RF,81,Inj (44),F  Preston,RF,72.0,
+11,,,,,P  Cercle,LF,64.0,
+12,,,,,,,,
+0,G  McNamara,GK,77,,J  Wildsmith,GK,74,
+1,M  Farfan,LWB,77,,F  Escobar,RB,66,
+2,T  Amman (C),CB,65,,A  Reach,LB,80,
+3,C  Grella,CB,59,,G  Baroti,CB,87,M/M Bkd
+4,B  Bye,RWB,69,,D  Eade,CB,77,Bkd
+5,G  Fuentes,AM,61,Inj (58) Bkd,A  Hunt,CM,69,Bkd
+6,N  Boujellab,CM,71,,B  Bannan,RM,74  (1),
+7,E  Rui Casimiro,CM,57,,N  Gudelj,PL,67,
+8,D  Sereni,FR,77,,M  Armin,IF,68  (1),
+9,E Dayev,RF,61,,S  Jovetic,CF,82  (2),
+10,O  Semedo,LF,69  (1),,J  Eyres (C),LM,54,
+11,,,,,,,,
+0,E  Williamson,GK,76,,E  Rahner,GK,79,
+1,B  Udeze,LWB,67,,O  Ogaki,RWB,65,Inj (68)
+2,T  Lainez,CB,74,,C  Higuita,LWB,80,Bkd
+3,K  Scott,CB,72,Bkd,C  Coldicott,AM,46,
+4,K  McCondichie,CB,55,,E  Virgilio,CB,73,
+5,M  Miranda,RWB,64,,L  Berges,CB,77,
+6,U  Aloisi,CM,59,Bkd,O  Hutchinson (C),CM,77,
+7,O  Pittana (C),CM,61,,K  Gallier,CM,77,
+8,F  Frail,FR,31,,E  Burke,TM,85  (2),M/M Bkd
+9,P Carrigan,RF,56,,C  Kouba,CF,67,
+10,F  Cadden,LF,59,,F  Homola,FR,79,Bkd
+11,,,,,,,,

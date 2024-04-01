@@ -1,0 +1,1 @@
+You can put your turns anywhere, as long as when you scan the MDS it stays in that location OR run the scanner again if you need to once you've moved it

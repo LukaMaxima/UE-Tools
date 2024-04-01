@@ -1,0 +1,49 @@
+,Name (H),Pos (H),Rating (H),Event (H),Name (A),Pos (A),Rating (A),Event (A)
+0,P  Dallas,GK,78,,M  Verrips,GK,76,
+1,L  Smith,RB,81,,D  Dumfries,RB,83,
+2,A  Roberston,LB,84,,M  Tol,LB,84,Bkd
+3,R  Porteous (C),CB,82,,V  Van Dijk (C),CB,84,
+4,T  Slavin,CB,79,,S  De Vrij,CB,84,Bkd
+5,S  McTominay,AM,85,,G  Wijnaldum,AM,88  (1),
+6,R  Fraser,RM,78  (1),,F  De Jong,RM,82,
+7,J  McGinn,CM,86,,H  Ziyech,PL,84,Bkd
+8,M  Hopkins,TM,87  (2),,C  Stengs,RF,85,
+9,P McMullan,FR,83,,K  Dolberg,LF,88  (3),M/M
+10,O  Burke,LM,79,,N  Ake,LM,79,
+11,,,,,,,,
+0,N  Castro,GK,90,,M  Sennikov,GK,64,
+1,T  Robson,LWB,83,,G  Mullins,RB,69,Inj (84)
+2,S  Nealis (C),CB,88,,R  Moller,LB,86,Bkd
+3,G  Davies,CB,81,SO (79),J  Gabriel De A,CB,85  (1),
+4,J  Tennent,RWB,86,,T  Sang-Hoon,CB,80,
+5,P  Kubo,AM,87,,M  Dijkstra (C),AM,69,
+6,J  Papura,CM,81,,L  Ferguson,CM,71,
+7,T  Jacobs,PL,91  (1),M/M,R  Malinovskyi,FR,85,
+8,N  Ratajczak,FR,86,Bkd,D  AL-Mehsal,RM,63,
+9,D Zanatta,LF,82,,A  Sporar,CF,74,
+10,M  Melotti,RF,80  (1),,Á  Valera,TM,87,
+11,,,,,,,,
+0,G  McNamara,GK,79,M/M,O  Knarvik,GK,70,
+1,M  Farfan,LWB,75,,A  Wisdom (C),RB,73,Inj (47)
+2,T  Amman (C),CB,71,,G  Hguilera,LB,77,
+3,C  Grella,CB,67,,J  Erlingmark,CB,78,
+4,B  Bye,RWB,72,,J  Cowan,CB,78,
+5,T  Breitenreite,AM,74,,C  D'Urso,AM,59,
+6,N  Boujellab,CM,76,,K  Jovanovic,CM,65,
+7,E  Rui Casimiro,CM,57,,T  Zhiyi,FR,59,
+8,D  Sereni,FR,75,Bkd,P  Solano,RM,62,
+9,E Dayev,RF,63  (1),,T  Scott,CF,63,
+10,O  Semedo,LF,67,,J  Dever,TM,62,
+11,,,,,,,,
+0,E  Williamson,GK,79,,N  Faston,GK,74,
+1,B  Udeze,LWB,78,,F  Ripley,RB,76,Bkd
+2,T  Lainez,CB,79,,J  Kenton,LB,67,
+3,K  Scott,CB,79,M/M,P  Hart,CB,67  (1),
+4,K  McCondichie,CB,70,,K  Covell,CB,70,
+5,M  Miranda,RWB,74,,K  Diment,AM,64,
+6,U  Aloisi,CM,69,Bkd,O  Moncur (C),CM,65,
+7,O  Pittana (C),CM,67,,E  Devaney,FR,53,
+8,F  Frail,FR,42,Bkd,M  Hendrie,RM,59,Bkd
+9,P Carrigan,RF,58,,J  Sturridge,CF,47,
+10,F  Cadden,LF,72  (2),,G  Owen,TM,52,Bkd
+11,,,,,,,,

@@ -1,0 +1,451 @@
+﻿ID,TEA Random
+0,Order Season Ticket
+1,First team squad
+2,Reserve squad
+3,Youth squad
+4,Talk To Player
+5,Reasure Player
+6,Free Transfer
+7,Fine Player
+8,Evaluate
+9,Recall
+10,Return
+11,Resign from Nat Job
+12,Specific Player Search
+13,Send by email
+14,Send by post + email
+15,Remove player from List
+16,Cancel Bid for Player
+17,Request extra funds
+18,PPA (Player)
+19,PPAP (Player)
+20,PPCP (Player)
+21,PPCPP (Player)
+22,PPLP (Player)
+23,PPLPP (Player)
+24,CPA (Player)
+25,CPAP (Player)
+26,CPCP (Player)
+27,CPCPP (Player)
+28,CPLP (Player)
+29,CPLPP (Player)
+30,PTCP (Team)
+31,PTCPP (Team)
+32,PTLP (Team)
+33,PTLPP (Team)
+34,CTCP (Team)
+35,CTCPP (Team)
+36,CTLP (Team)
+37,CTLPP (Team)
+38,Con Training
+39,Cro Training
+40,Dis Training
+41,Han Training
+42,Hea Training
+43,Mov Training
+44,Pas Training
+45,Ref Training
+46,Sho Training
+47,Sta Training
+48,Str Training
+49,Tac Training
+50,PS AM
+51,PS CB
+52,PS CF
+53,PS CM
+54,PS FR
+55,PS GK
+56,PS IF
+57,PS LB
+58,PS LF
+59,PS LM
+60,PS LWB
+61,PS PL
+62,PS RB
+63,PS RF
+64,PS RM
+65,PS RWB
+66,PS SW
+67,PS TM
+68,Mentor
+69,Mentor End
+70,Mentor Summary
+71,Loan Extend
+72,Loan 1
+73,Loan 2
+74,Loan 3
+75,Loan 4
+76,Loan 5
+77,Loan 6
+78,Loan 7
+79,Loan 8
+80,Loan 9
+81,Loan 10
+82,Loan 11
+83,Loan 12
+84,Loan 13
+85,Loan 14
+86,Loan 15
+87,Loan 16
+88,Loan 17
+89,Loan 18
+90,Loan 19
+91,Loan 20
+92,Loan 21
+93,Loan 22
+94,Loan 23
+95,Loan 24
+96,Loan 25
+97,Loan 26
+98,Pools 1
+99,Pools 2
+100,Pools 3
+101,Pools 4
+102,Pools 5
+103,Pools 6
+104,Pools 7
+105,Pools 8
+106,Pools 9
+107,Pools 10
+108,Pools 11
+109,Pools 12
+110,Pools 13
+111,Pools 14
+112,Pools 15
+113,Pools 16
+114,Pools 17
+115,Pools 18
+116,Pools 19
+117,Pools 20
+118,Pools 21
+119,Pools 22
+120,Pools 23
+121,Pools 24
+122,Pools 25
+123,Pools 26
+124,Pools 27
+125,Pools 28
+126,Pools 29
+127,Pools 30
+128,Pools 31
+129,Pools 32
+130,Pools 33
+131,Pools 34
+132,Pools 35
+133,Pools 36
+134,Pools 37
+135,Pools 38
+136,Pools 39
+137,Pools 40
+138,Pools 41
+139,Pools 42
+140,Pools 43
+141,Pools 44
+142,Pools 45
+143,Pools 46
+144,Pools 47
+145,Pools 48
+146,Pools 49
+147,Pools 50
+148,Pools 51
+149,Pools 52
+150,Pools 53
+151,Pools 54
+152,Pools 55
+153,Pools 56
+154,Pools 57
+155,Pools 58
+156,Pools 59
+157,Pools 60
+158,Apply Albania
+159,Apply Algeria
+160,Apply America
+161,Apply Angola
+162,Apply Argentina
+163,Apply Australia
+164,Apply Austria
+165,Apply Belarus
+166,Apply Belgium
+167,Apply Bolivia
+168,Apply Bosnia
+169,Apply Brazil
+170,Apply Bulgaria
+171,Apply Cameroon
+172,Apply Cape Verde
+173,Apply Chile
+174,Apply China
+175,Apply Columbia
+176,Apply Costa Rica
+177,Apply Croatia
+178,Apply Czech Republic
+179,Apply Denmark
+180,Apply Egypt
+181,Apply England
+182,Apply Estonia
+183,Apply Finland
+184,Apply France
+185,Apply Georgia
+186,Apply Germany
+187,Apply Ghana
+188,Apply Greece
+189,Apply Guinea
+190,Apply Holland
+191,Apply Hungary
+192,Apply Iceland
+193,Apply Iran
+194,Apply Irish Republic
+195,Apply Israel
+196,Apply Italy
+197,Apply Ivory Coast
+198,Apply Jamaica
+199,Apply Japan
+200,Apply Latvia
+201,Apply Liberia
+202,Apply Macedonia
+203,Apply Mexico
+204,Apply Moldova
+205,Apply Morocco
+206,Apply Nigeria
+207,Apply N Ireland
+208,Apply Norway
+209,Apply Paraguay
+210,Apply Peru
+211,Apply Poland
+212,Apply Portugal
+213,Apply Romania
+214,Apply Russia
+215,Apply Saudi Arabia
+216,Apply Scotland
+217,Apply Senegal
+218,Apply Slovakia
+219,Apply Slovenia
+220,Apply South Africa
+221,Apply South Korea
+222,Apply Spain
+223,Apply Sweden
+224,Apply Switzerland
+225,Apply Trinidad
+226,Apply Tunisia
+227,Apply Turkey
+228,Apply Ukraine
+229,Apply Uruguay
+230,Apply Wales
+231,Apply Yugoslavia
+232,Apply Zambia
+233,Apply Zimbabwe
+234,Buy UE Points - 1
+235,Buy UE Points - 2
+236,Buy UE Points - 3
+237,Buy UE Points - 4
+238,Buy UE Points - 5
+239,Buy UE Points - 6
+240,Buy UE Points - 7
+241,Buy UE Points - 8
+242,Buy UE Points - 9
+243,Buy UE Points - 10
+244,Buy UE Points - 11
+245,Buy UE Points - 12
+246,Buy UE Points - 13
+247,Buy UE Points - 14
+248,Buy UE Points - 15
+249,Buy UE Points - 16
+250,Buy UE Points - 17
+251,Buy UE Points - 18
+252,Buy UE Points - 19
+253,Buy UE Points - 20
+254,EOS Stadium Upgrade - 1
+255,EOS Stadium Upgrade - 2
+256,EOS Stadium Upgrade - 3
+257,EOS Stadium Upgrade - 4
+258,EOS Stadium Upgrade - 5
+259,EOS Stadium Upgrade - 6
+260,EOS Stadium Upgrade - 7
+261,EOS Stadium Upgrade - 8
+262,EOS Stadium Upgrade - 9
+263,Charity Work
+264,Karma - Att
+265,Karma - Bet
+266,Karma - Def
+267,Karma - Delay Retirement
+268,Karma - Longevity
+269,Karma - Mid
+270,Karma - Reduce Injury by 1 week
+271,Karma - Reduce Injury by 2 weeks
+272,Karma - Regain lost confidence
+273,Karma - Youth Player AM
+274,Karma - Youth Player CB
+275,Karma - Youth Player CF
+276,Karma - Youth Player CM
+277,Karma - Youth Player FR
+278,Karma - Youth Player GK
+279,Karma - Youth Player IF
+280,Karma - Youth Player LB
+281,Karma - Youth Player LF
+282,Karma - Youth Player LM
+283,Karma - Youth Player LWB
+284,Karma - Youth Player PL
+285,Karma - Youth Player RB
+286,Karma - Youth Player RF
+287,Karma - Youth Player RM
+288,Karma - Youth Player RWB
+289,Karma - Youth Player SW
+290,Karma - Youth Player TM
+291,Karma - Gold Youth Player AM
+292,Karma - Gold Youth Player CB
+293,Karma - Gold Youth Player CF
+294,Karma - Gold Youth Player CM
+295,Karma - Gold Youth Player FR
+296,Karma - Gold Youth Player GK
+297,Karma - Gold Youth Player IF
+298,Karma - Gold Youth Player LB
+299,Karma - Gold Youth Player LF
+300,Karma - Gold Youth Player LM
+301,Karma - Gold Youth Player LWB
+302,Karma - Gold Youth Player PL
+303,Karma - Gold Youth Player RB
+304,Karma - Gold Youth Player RF
+305,Karma - Gold Youth Player RM
+306,Karma - Gold Youth Player RWB
+307,Karma - Gold Youth Player SW
+308,Karma - Gold Youth Player TM
+309,UE Points - SA Ant
+310,UE Points - SA Cha
+311,UE Points - SA Com
+312,UE Points - SA Det
+313,UE Points - SA Fks
+314,UE Points - SA Fla
+315,UE Points - SA Gam
+316,UE Points - SA Gnt
+317,UE Points - SA Gsi
+318,UE Points - SA Lea
+319,UE Points - SA Mar
+320,UE Points - SA Pre
+321,UE Points - SA Pro
+322,UE Points - SA Rel
+323,UE Points - SA Res
+324,UE Points - SA Sel
+325,UE Points - SA Swk
+326,UE Points - SA Tea
+327,Remove SA - Alc
+328,Remove SA - Ant
+329,Remove SA - Att
+330,Remove SA - Cha
+331,Remove SA - Com
+332,Remove SA - Def
+333,Remove SA - Det
+334,Remove SA - Dis
+335,Remove SA - Dri
+336,Remove SA - Ego
+337,Remove SA - Exp
+338,Remove SA - Fks
+339,Remove SA - Fla
+340,Remove SA - Gam
+341,Remove SA - Gen
+342,Remove SA - Gnt
+343,Remove SA - Gsi
+344,Remove SA - Inc
+345,Remove SA - Inj
+346,Remove SA - Lea
+347,Remove SA - Loy
+348,Remove SA - Lss
+349,Remove SA - Lts
+350,Remove SA - Mar
+351,Remove SA - Mid
+352,Remove SA - Nos
+353,Remove SA - Pre
+354,Remove SA - Pro
+355,Remove SA - Rel
+356,Remove SA - Res
+357,Remove SA - Sel
+358,Remove SA - Swk
+359,Remove SA - Tea
+360,Remove SA - Ver
+361,UE Points - Boost Aggression
+362,UE Points - Boost Potential
+363,UE Points - Boost Speed
+364,UE Points - Make both footed
+365,UE Points - Stad10
+366,UE Points - Stad15
+367,UE Points - Stad20
+368,UE Points - Stad25
+369,UE Points - Stad30
+370,UE Points - Stad35
+371,UE Points - Stad40
+372,UE Points - Stad45
+373,UE Points - Stad5
+374,UE Points - Stad50
+375,UE Points - Mon1
+376,UE Points - Mon2
+377,UE Points - Mon3
+378,UE Points - Mon4
+379,UE Points - Mon5
+380,UE Points - Mon6
+381,UE Points - Mon7
+382,UE Points - Mon8
+383,UE Points - Mon9
+384,UE Points - Mon10
+385,UE Points - Mon11
+386,UE Points - Mon12
+387,UE Points - Mon13
+388,UE Points - Mon14
+389,UE Points - Mon15
+390,UE Points - Mon16
+391,UE Points - Mon17
+392,UE Points - Mon18
+393,UE Points - Mon19
+394,UE Points - Mon20
+395,UE Points - Mon21
+396,UE Points - Mon22
+397,UE Points - Mon23
+398,UE Points - Mon24
+399,UE Points - Mon25
+400,UE Points - Mon26
+401,UE Points - Mon27
+402,UE Points - Mon28
+403,UE Points - Mon29
+404,UE Points - Mon30
+405,UE Points - Mon31
+406,UE Points - Mon32
+407,UE Points - Mon33
+408,UE Points - Mon34
+409,UE Points - Mon35
+410,UE Points - Mon36
+411,UE Points - Mon37
+412,UE Points - Mon38
+413,UE Points - Mon39
+414,UE Points - Mon40
+415,UE Points - Mon41
+416,UE Points - Mon42
+417,UE Points - Mon43
+418,UE Points - Mon44
+419,UE Points - Mon45
+420,UE Points - Mon46
+421,UE Points - Mon47
+422,UE Points - Mon48
+423,UE Points - Mon49
+424,UE Points - Mon50
+425,UE Points - Mon51
+426,UE Points - Mon52
+427,UE Points - Mon53
+428,UE Points - Mon54
+429,UE Points - Mon55
+430,UE Points - Mon56
+431,UE Points - Mon57
+432,UE Points - Mon58
+433,UE Points - Mon59
+434,UE Points - Mon60
+435,UE Points - Mon61
+436,UE Points - Mon62
+437,UE Points - Mon63
+438,UE Points - Mon64
+439,UE Points - Mon65
+440,UE Points - Mon66
+441,UE Points - Mon67
+442,UE Points - Mon68
+443,UE Points - Mon69
+444,UE Points - Mon70
+445,UE Points - Mon71
+446,UE Points - Mon72
+447,UE Points - Mon73
+448,UE Points - Mon74
+449,UE Points - Mon75

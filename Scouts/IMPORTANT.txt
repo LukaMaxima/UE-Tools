@@ -1,0 +1,5 @@
+Don't delete anything in this folder. 
+
+All scouted teams so far will be written to "Scouts so Far"
+
+Scouts for this week will be written to "Scouted this week"

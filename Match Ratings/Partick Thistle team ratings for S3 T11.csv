@@ -1,0 +1,49 @@
+,Name (H),Pos (H),Rating (H),Event (H),Name (A),Pos (A),Rating (A),Event (A)
+0,N  Castro (C),GK,85,,S  Kapino,GK,84,
+1,T  Robson,LWB,80,,J  Larsen,RWB,91,
+2,K  Ford,CB,67,,A  Jimenez (C),CB,87,
+3,P  Daget,CB,75,,T  Glass,CB,90,
+4,J  Tennent,RWB,80,,R  Coly,LWB,84,Bkd
+5,P  Kubo,AM,69,SO (42) Bkd,M  Ferreri,AM,86,
+6,J  Papura,CM,80,,E  Gusev,PL,91,M/M
+7,T  Jacobs,PL,81,Bkd,C  Nunez,CM,82,Bkd
+8,N  Ratajczak,FR,84,,A  Sigurdsson,FR,90  (1),
+9,D Zanatta,LF,78,,S  Karkbo,RF,86  (1),Bkd
+10,B  Mines,RF,88  (1),Bkd,F  Jose Maria,LF,87,
+11,,,,,,,,
+0,G  McNamara,GK,78,,M  Caig,GK,79,
+1,S  Saunders,LWB,68,,R  Carty,RWB,66,
+2,G  Smal,CB,70,,F  Acerbi (C),CB,79,
+3,U  Brown,CB,61,Inj (42),J  Cakic,CB,72,Bkd
+4,T  Parker,CB,63,Bkd,U  Henchoz,LWB,66,
+5,B  Bye,RWB,72,,F  Laurenborg,AM,74,Bkd
+6,G  Fuentes (C),AM,58,,N  Kolivanov,CM,73,
+7,E  Rui Casimiro,PL,79,,E  Fritz,PL,75,
+8,N  Boujellab,FR,66,SO (62),A  Mandreko,FR,80,
+9,M Melotti,RF,71,,A  Gouiri,RF,82  (1),
+10,Z  Rudden,LF,80,,M  Medina,LF,83  (1),M/M
+11,,,,,,,,
+0,E  Williamson,GK,77,,F  Rodrigo,GK,72,
+1,L  Gartshore,LWB,66,,U  Sheng,RWB,68,
+2,C  Grella,CB,69  (1),,D  Carragher (C),CB,77,
+3,P  Cowie,CB,56,,O  Dever,CB,76,
+4,M  Miranda,RWB,63,,C  Scharping,LWB,73,
+5,L  Doo-li,AM,64,Bkd,U  Seedorf,AM,62,
+6,U  Aloisi (C),CM,66,Bkd,M  Drazic,PL,65,
+7,O  Pittana,PL,84,M/M,W  Vidakovic,CM,66,
+8,D  Sereni,FR,83  (1),,F  Butt,FR,38,
+9,B Reynolds,RF,64  (1),Inj (36),G  Alexander,LF,69,
+10,F  Cadden,LF,61,,F  Chema,RF,79  (2),Bkd
+11,,,,,,,,
+0,D  Ospina,GK,79,,J  Pollersbeck,GK,79,
+1,D  Carvajal (C),RWB,86,,M  Rui,LWB,88,
+2,M  Luongo,AM,79,Bkd,J  Anderson,RWB,86,
+3,J  Riedewald,CB,83,Bkd,L  Page,CB,91,Bkd
+4,I  Rice,CB,81,,S  Rosted,CB,90,
+5,O  Vrizas,LWB,85  (1),Bkd,A  Witsel,AM,89,
+6,H  Solano,CM,84,,K  Kampl (C),PL,89  (1),
+7,K  Benzema,CF,78,,M  Gjerstrom,CM,92  (1),Bkd
+8,A  Mehmedi,CM,72,,R  Doan,RF,93  (1),M/M
+9,V Muriqi,TM,74,,D  Dragus,LF,80,
+10,J  Berget,FR,87,,R  Curtis,FR,83,Bkd
+11,,,,,,,,
